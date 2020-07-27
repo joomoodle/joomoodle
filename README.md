@@ -1,7 +1,7 @@
 ### Hi 👋
-### Welcome to my repository, I'am Juan Pablo, Backend and Frontend developer from México
+### Welcome to my repository, I'm Juan Pablo, Backend and Frontend developer from México
 
-## Tools I use
+## tools that I use
 <p>
 <img src="https://softio.com.mx/img/tools/react.svg" alt="" width="32"/>
 <img src="https://softio.com.mx/img/tools/javascript.svg" alt="" width="32"/>
