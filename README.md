@@ -1,6 +1,6 @@
 ### Hi there, I'm Juan - 👋
 
-## I'm a Husband, Father, Developer
+## I'm a Husband, Father and Developer
 - 🔭 I currently work for triplei full time [company]
 - 🌱 I’m currently learning everything 🤣
 - 👯 I am looking to collaborate with developers who share the same idea
