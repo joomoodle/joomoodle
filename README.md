@@ -29,6 +29,10 @@
 <br />
 
 
+---
+
+<img align="left" alt="Juanpa's Github Stats" src="https://github-readme-stats.vercel.app/api?username=joomoodle&show_icons=true&hide_border=true" />
+
 [company]: http://www.triplei.com/
 [website]: http://softio.com.mx/
 [twitter]: https://twitter.com/jdionicio_
