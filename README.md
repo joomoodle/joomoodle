@@ -1,7 +1,7 @@
 ### Hi there, I'm Juan - 👋
 
 ## I'm a Husband, Father and Developer
-- 🔭 I currently work for triplei full time [company]
+- 🔭 I currently work for [triplei] full time
 - 🌱 I’m currently learning everything 🤣
 - 👯 I am looking to collaborate with developers who share the same idea
 - 🥅 2020 Goals: Contribute more to Open Source projects
@@ -33,7 +33,7 @@
 
 <img align="left" alt="Juanpa's Github Stats" src="https://github-readme-stats.vercel.app/api?username=joomoodle&show_icons=true&hide_border=true" />
 
-[company]: http://www.triplei.com/
+[triplei]: http://www.triplei.com/
 [website]: http://softio.com.mx/
 [twitter]: https://twitter.com/jdionicio_
 [instagram]: https://www.instagram.com/jdionicio_
