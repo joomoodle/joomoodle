@@ -1,5 +1,11 @@
 ## [![stephen ajulu's header](https://github.com/joomoodle/joomoodle/blob/master/images/header.png)](https://softio.com.mx/)
 
+<p align="center">
+[<img align="left" alt="Juanpa" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="Juanpa | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="Juanpa | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+</p>
+
 ### Hi there, I'm Juan - 👋
 
 ## I'm a Husband, Father and Developer 👨‍💻
@@ -9,12 +15,6 @@
 - 👯 I am looking to collaborate with developers who share the same idea
 - 🥅 2020 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love playing battle games and looking for a business opportunity
-
-### Connect with me:
-
-[<img align="left" alt="Juanpa" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="Juanpa | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="Juanpa | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br />
 
