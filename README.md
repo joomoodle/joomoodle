@@ -1,12 +1,11 @@
 ## [![stephen ajulu's header](https://github.com/joomoodle/joomoodle/blob/master/images/header.png)](https://softio.com.mx/)
 
 <p align="center">
-<a href="https://joomoodle.github.io/juanpadev/home"><img align="left" alt="Juanpa" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" /></a>
-<a href="https://twitter.com/jdionicio_"><img align="left" alt="Juanpa | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" /></a>
-<a href="https://www.instagram.com/jdionicio_"><img align="left" alt="Juanpa | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" /></a>
-
+<a href="https://joomoodle.github.io/juanpadev/home"><img alt="Juanpa" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" /></a>&nbsp;&nbsp;
+<a href="https://twitter.com/jdionicio_"><img  alt="Juanpa | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" /></a>&nbsp;&nbsp;
+<a href="https://www.instagram.com/jdionicio_"><img  alt="Juanpa | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" /></a>&nbsp;&nbsp;
 </p>
-
+<br />
 ### Hi there, I'm Juan - 👋
 
 ## I'm a Husband, Father and Developer 👨‍💻
